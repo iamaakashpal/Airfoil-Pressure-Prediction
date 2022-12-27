@@ -1,3 +1,3 @@
 # Airfoil-Pressure-Prediction
 
-Application Url : - https://airfoilpressure-prediction.herokuapp.com/
+Application Url : - https://red-analyst-vgyig.ineuron.app:5000/
